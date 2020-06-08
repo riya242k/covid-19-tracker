@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e065bc6b7cfb9fca2cbff89da201c0f6",
+    "revision": "b731c1d6d8ec8ceb584f0f08ba6c4cfa",
     "url": "/covid-19-tracker/index.html"
   },
   {
-    "revision": "d5c240df21265f89fec2",
+    "revision": "0884e5995198f06d001a",
     "url": "/covid-19-tracker/static/css/2.c980a65e.chunk.css"
   },
   {
-    "revision": "f8b625b5e8493a15a7e8",
-    "url": "/covid-19-tracker/static/css/main.824bcd95.chunk.css"
+    "revision": "05a7a0fe15faee53918d",
+    "url": "/covid-19-tracker/static/css/main.91769fe0.chunk.css"
   },
   {
-    "revision": "d5c240df21265f89fec2",
-    "url": "/covid-19-tracker/static/js/2.7edef3f4.chunk.js"
+    "revision": "0884e5995198f06d001a",
+    "url": "/covid-19-tracker/static/js/2.8c488c35.chunk.js"
   },
   {
     "revision": "39ae62bbbe0fcc7b2ccc733de9703168",
-    "url": "/covid-19-tracker/static/js/2.7edef3f4.chunk.js.LICENSE.txt"
+    "url": "/covid-19-tracker/static/js/2.8c488c35.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8b625b5e8493a15a7e8",
-    "url": "/covid-19-tracker/static/js/main.b59e9515.chunk.js"
+    "revision": "05a7a0fe15faee53918d",
+    "url": "/covid-19-tracker/static/js/main.cfaad373.chunk.js"
   },
   {
     "revision": "66ac275df0e7ba7c80d3",
     "url": "/covid-19-tracker/static/js/runtime-main.26e90864.js"
   },
   {
-    "revision": "8666984c0a04fc57a6e89cc041baa673",
-    "url": "/covid-19-tracker/static/media/cover-face.8666984c.jpg"
+    "revision": "c238af462251f774a87de78ec6a7a43f",
+    "url": "/covid-19-tracker/static/media/confused.c238af46.jpg"
   },
   {
-    "revision": "504096b87f7b71848bbe27f1e268c5e3",
-    "url": "/covid-19-tracker/static/media/doubt.504096b8.PNG"
+    "revision": "8666984c0a04fc57a6e89cc041baa673",
+    "url": "/covid-19-tracker/static/media/cover-face.8666984c.jpg"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -54,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/covid-19-tracker/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
-    "revision": "8012cc6d55b153821f33a663708a4a2f",
-    "url": "/covid-19-tracker/static/media/house-cleaing.8012cc6d.jpg"
   },
   {
     "revision": "55acaeab5d0d07d6072530023bc097ca",
